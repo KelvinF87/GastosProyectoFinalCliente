@@ -45,9 +45,24 @@ La aplicación se conecta a una API externa. Asegúrate de tener configurada la 
 - **Users**: Administración de usuarios
 - **Types**: Gestión de categorías/tipos de gastos
 
+---
+
+## 🔗 Enlaces del Proyecto
+
+### Repositorio
+- **GitHub**: [GastosProyectoFinalCliente](https://github.com/KelvinF87/GastosProyectoFinalCliente.git)
+
+### Demo Online
+- **Netlify**: [gastosrincon.netlify.app](https://gastosrincon.netlify.app)
+
+### Diseño
+- **Figma**: [Ver diseño en Figma](https://www.figma.com/design/5n1093IQ11ZZx85kkehy8Q/GastosApp?m=auto&t=aXWsfDzeCAl2qUot-1)
+
+---
+
 ## 👨‍💻 Autor
 
-**Kelvin José**
+**Kelvin J. Familia**
 
 - 📧 Correo: [kelvinjosefamilia@gmail.com](mailto:kelvinjosefamilia@gmail.com)
 - 🐙 GitHub: [@KelvinF87](https://github.com/KelvinF87)
