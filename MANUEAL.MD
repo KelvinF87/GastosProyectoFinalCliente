@@ -7,18 +7,21 @@
 
 ## 2. Acceso al Sistema
 Para ingresar a la aplicación, debe utilizar sus credenciales en la pantalla de inicio de sesión.
+![Login](capturas/login.png)
 
 ### Inicio de Sesión
-1. Ingrese su **Correo Electrónico**.
-2. Ingrese su **Contraseña**.
+1. Ingrese su **kelvin@gmail.com**.
+2. Ingrese su **123**.
 3. Haga clic en el botón `Iniciar Sesión`.
 
-> **Nota importante:** Si no tiene una cuenta activa, debe **contactar al administrador** del sistema, ya que el registro de nuevos usuarios es gestionado de forma privada.
+> **Nota importante:** Si no tiene una cuenta activa, debe **contactar al administrador (Dejé usuario y contraseña admin para pruebas)** del sistema, ya que el registro de nuevos usuarios es gestionado de forma privada.
 
 ---
 
 ## 3. Panel Principal (Dashboard)
 Al ingresar, será recibido por el **Dashboard**, que ofrece un resumen ejecutivo de la cuenta:
+![Dashboard](capturas/dashboard.png)
+
 
 ### Estadísticas Rápidas
 | Módulo | Descripción |
@@ -35,6 +38,7 @@ Al ingresar, será recibido por el **Dashboard**, que ofrece un resumen ejecutiv
 
 ## 4. Gestión de Usuarios
 En la pestaña **Usuarios**, los administradores pueden gestionar quién accede a la plataforma.
+![Usuarios](capturas/usuarios.png)
 
 ### Operaciones Disponibles:
 - **Crear Usuario:** Haga clic en `+ Nuevo Usuario` y complete los campos de Nombre, Email y Contraseña.
@@ -45,6 +49,7 @@ En la pestaña **Usuarios**, los administradores pueden gestionar quién accede 
 
 ## 5. Configuración de Tipos de Gastos
 Antes de registrar un gasto, es recomendable definir categorías en la sección **Tipos**.
+![Tipos](capturas/tipos.png)
 
 - **Ejemplos:** "Servicios Básicos", "Educación", "Alimentación".
 - **Formulario:** Solo requiere un **Nombre** y una **Descripción** breve para identificar la categoría al momento de crear un registro.
@@ -53,6 +58,7 @@ Antes de registrar un gasto, es recomendable definir categorías en la sección 
 
 ## 6. Registro de Movimientos
 Este es el núcleo de la aplicación. En la sección **Registros**, podrá visualizar y crear su historial financiero.
+![Registros](capturas/registros.png)
 
 ### Cómo leer el historial:
 - **Flecha Roja (Abajo):** Representa un **Gasto**. El monto se muestra en rojo con signo negativo (ej: `-50,00 €`).
